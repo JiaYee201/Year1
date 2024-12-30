@@ -1,4 +1,4 @@
-## SECJ1013 Programming Technique I
+## 💻SECJ1013 Programming Technique I (Lecturer: Dr Jamilah binti Mahmood)
 This course provides theoretical knowledge and practical skills in problem-solving techniques using a structured approach.The task is to develop programs using the C++ programming language to solve simple to moderate problems. The course covers the following: preprocessor directives, constants and variables, data types, input and output statements, control structures such as sequential, selection, and loop, built-in and user-defined functions, single and two-dimensional arrays, file operations, pointers, and structured data types.
 
 ## Chapter 1
