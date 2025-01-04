@@ -4,7 +4,7 @@ This course introduced information systems and technology (IS/IT) and their appl
 ![DigitalMarketingTechnologyGIF](https://github.com/user-attachments/assets/6e0e2737-fe47-4e5d-8796-3d44119b3c7e)
 
 
-##🤔 Chapter 1: Emerging Technology in ICT
+## 🤔Chapter 1: Emerging Technology in ICT
 This chapter covers meaning of Information Technology (IT), history of ICT, current trend in ICT and Job in IT.
 
 ## 💻Chapter 2: Hardware
