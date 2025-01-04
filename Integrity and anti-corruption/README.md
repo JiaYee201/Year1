@@ -1,6 +1,7 @@
 ## 💰ULRS1032 Integrity and Anti-Corruption (Lecturer: Dr Sulaiman bin Kadikon)
 This course covers the fundamental concepts of corruption, including the values of integrity, anti-corruption, forms of corrupt behavior, abuse of power in daily activities and organizations, as well as methods of preventing corruption.Cases related to corruption were also discussed. The teaching and learning methods were implemented in the form of 'experiential learning' through individual and group activities. By the end of this course, learners are expected to understand the practices of integrity, the concepts of corruption, anti-corruption, abuse of power, and the prevention of corruption in society and organizations.
 <br>
+
 ![CeroCorrupcionCorrupcionGIF](https://github.com/user-attachments/assets/30ef4275-0082-44a4-bc8f-e66b24e9ac2b)
 
 
