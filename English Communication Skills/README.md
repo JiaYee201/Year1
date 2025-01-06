@@ -4,6 +4,9 @@ This course reinforces and enhances existing English language skills to enable e
 
 ![ImSorryMyEnglishIsNotGoodZackGIF](https://github.com/user-attachments/assets/01093857-5197-4aef-bf22-5391454fcc72)
 
+## My English E-portfolio
+[Click here](https://sites.google.com/view/jiayee/home)
+
 ## 🤔Reflection
 In this course, I learned how to improve my speaking, listening, reading, and writing skills. Through the assignments, I gained more confidence in using English. I believe that including more interactive activities would further enhance my proficiency in English.
 
