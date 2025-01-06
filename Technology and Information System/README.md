@@ -27,3 +27,8 @@ This chapter covers the impact of large databases, private networks, the Interne
 
 ## ☁️Chapter 8: Cloud Computing
 This chapter covers the fundamentals of cloud computing, including basic concepts, service models, deployment models, advantages, challenges, and the top 10 cloud service providers in 2022 and 2023.
+
+## 🤔Reflection
+In this course, I learned about various aspects of information systems, which improved my understanding of this field. Through assignments such as industry talks and visits, I gained valuable insights from the industry. I believe that including more industry talks and visits would help me better understand current trends in technology.
+
+
