@@ -31,3 +31,6 @@ This module covers Types of Sequential Circuits, Counters, Design and Analysis o
 
 ## ®️Module 9(Shift Register)
 This module covers Basic Shift Register Functions, SISO, SIPO, PISO, PIPO, Bidirectional Shift Register and Shift Register Counter which are Ring and Johnson Counter.
+
+## 🤔Reflection
+In this course, I learned about basic gates in logic circuits, how to express Boolean expressions, and how to draw truth tables. The lab sessions and project helped me understand logic functions more effectively. I believe that conducting more physical circuit simulation labs would further enhance my understanding of this course.
