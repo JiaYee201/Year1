@@ -14,3 +14,6 @@ This chapter covers Basic Principles, Permutations, Combinations, Pigeonhole Pri
 This chapter covers Graph Definition and Notations, Representation of Graphs, Isomorphism of Graphs, Path and Cycles, Euler Cycles, Hamiltonian Cycles, Dijkstra’s Shortest Path Algorithm and Trees(Terminology and Characterizations of Trees, Rooted Trees, Binary Trees, Tree Traversals, Spanning Tree).
 ## ♾️CHAPTER 5 (Finite Automata)
 This chapter covers Deterministic finite automata and Finite state machines.
+
+## 🤔Refelction 
+In this course, I learned various principles related to computer science, which helped me develop a deeper understanding and solve real-world problems using these concepts. The assignments made me more familiar with real-time test questions, enhancing my thinking and problem-solving skills. I believe practicing more exercises on each topic would further improve my critical thinking skills.
