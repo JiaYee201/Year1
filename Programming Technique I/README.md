@@ -36,6 +36,9 @@ This chapter covers Address of a Variable, Pointer Variable, The Relationship Be
 ## 📊Chapter 8 (Structured Data)
 This chapter covers Combining Data into Structures, Accessing Structure Members, Initializing the Structure, Arrays of structures and Unions and enumerated data types.
 
+## 🤔Reflection
+In this course, I learned the basics of C++ programming language chapter by chapter. The assignments and lab exercises helped me better understand C++ coding through practical application. I believe that providing more exercises would further enhance my programming skills in C++.
+
 
 
 
