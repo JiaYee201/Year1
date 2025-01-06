@@ -15,5 +15,5 @@ This chapter covers Graph Definition and Notations, Representation of Graphs, Is
 ## ♾️CHAPTER 5 (Finite Automata)
 This chapter covers Deterministic finite automata and Finite state machines.
 
-## 🤔Refelction 
+## 🤔Reflection 
 In this course, I learned various principles related to computer science, which helped me develop a deeper understanding and solve real-world problems using these concepts. The assignments made me more familiar with real-time test questions, enhancing my thinking and problem-solving skills. I believe practicing more exercises on each topic would further improve my critical thinking skills.
