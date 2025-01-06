@@ -28,3 +28,8 @@ Perangi rasuah: Lapor, cegah dan initiatif kerajaan
 ## 🫂Topik 11
 Institusi sosial dalam pembudayaan integriti dan antirasuah		
 
+## 🤔Reflection
+In this course, I learned about the concept of integrity in various aspects and an overview of anti-corruption. By creating a poster and a video, I realized how unethical actions can lead to serious consequences, including being caught by the authorities. I believe that introducing more activities like mini-games would make the course more engaging and immersive.
+
+
+
