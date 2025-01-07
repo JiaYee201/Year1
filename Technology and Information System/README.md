@@ -13,7 +13,7 @@ This chapter covers IT infrastructure stages, computer hardware types, system un
 ## 📝Chapter 3: Software
 This chapter covers features and types of System Software, types, advantages and disadvantages and the need for application software, different between System Software and Application Software, history, types, component and example of programming software and Malicious software.
 
-##📋 Chapter 4: Information Systems & Methodology
+## 📋Chapter 4: Information Systems & Methodology
 This chapter covers information system components, organizational functions, management levels and their informational needs, information flows, computer-based systems (transaction processing, management information, decision support, and executive support systems), office automation, knowledge work systems, differences between data and knowledge workers, the six phases of the systems life cycle, and addressing information needs with potential solutions.  
 
 ## 📊Chapter 5: Databases and Data Analytics
