@@ -10,5 +10,7 @@ Click [here](https://youtu.be/9Y06GSYly60?feature=shared) to watch it.
 ## Assignment 3 (Report)
 An industry talk by Encik Nik Mohd Habibullah(Ketua Pegawai Eksekutif Micro Semiconductor Sdn Bhd. and Encik Mohd Hakimi Iqmall(Pegawai Teknologi Maklumat UTMDIGITAL).
 
-## Assignment 4 (Newsletter)
+## Assignment 4 (Video)
 A visit to PETRONAS Digital Sdn. Bhd. 
+<br>
+Click [here](https://youtu.be/lmTNFo7SI0Y?feature=shared) to watch it.
